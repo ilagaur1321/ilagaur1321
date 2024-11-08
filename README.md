@@ -1,4 +1,5 @@
-<h1 align="center" style="color: #3498db;">Hi 👋, I'm Ila Gaur</h1>
+<h1 align="center">Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"width="30px" height='30px'> 
+  I'm Ila Gaur</h1>
 
 <h3 align="center" style="color: #2ecc71;">Graduate student at Rice University, where I’m engineering my future in Management and Leadership. Passionate about decoding business puzzles with the power of data science and machine learning—because solving challenges is just part of the equation.</h3>
 
