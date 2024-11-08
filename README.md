@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #3498db;">Hi 👋, I'm Ila Gaur</h1>
 
-<h3 align="center" style="color: #2ecc71;">Graduate student at Rice University specializing in Engineering Management and Leadership. I'm passionate about data science, machine learning, and using technology to solve complex business problems.</h3>
+<h3 align="center" style="color: #2ecc71;">Graduate student at Rice University, where I’m engineering my future in Management and Leadership. Passionate about decoding business puzzles with the power of data science and machine learning—because solving challenges is just part of the equation.</h3>
 
 <!-- Aligning the GIF to the center -->
 <p align="center">
@@ -61,7 +61,16 @@
 
 ---
 
-- 📫 How to reach me: **ig36@rice.edu**
+## <span style="color: #f39c12;">🤝 Extracurricular Activities</span>
+- **Student Member of the Space Force Association**: Passionate about space exploration and defense, engaging with the Space Force Association to stay informed and contribute to the growing community of future space leaders.
+- **Wellbeing Peer** at Rice University: Actively engaged in supporting the mental and emotional wellbeing of students through peer mentoring and organizing wellness activities.
+- **Graduate Student Association (GSA)** Member: Contributing to student-led initiatives, representing graduate students, and helping foster a sense of community within the Rice graduate student body.
+- **Project Management Institute (PMI)** Club Member: Engaged in learning, networking, and contributing to the development of project management skills through club activities and events at Rice University.
+
+---
+
+## <span style="color: #3498db;">📫 How to reach me:</span>
+- **Email**: [ig36@rice.edu](mailto:ig36@rice.edu)
 
 <h3 align="center" style="color: #f39c12;">Connect with me:</h3>
 <p align="center">
