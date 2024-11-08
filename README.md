@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ila Gaur</h1>
 <h3 align="center">Graduate Student at Rice University</h3>
+<!-- Aligning the GIF to the right -->
+<p align="right">
+  <img src="https://media.giphy.com/media/bzuUs1uRLBHWe2aBPK/giphy.gif?cid=790b7611eol0bizn5fsht1wnm72sdt9jutbj81oc2vc3g8y2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="My GIF" width="300">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilagaur1321&label=Profile%20views&color=0e75b6&style=flat" alt="ilagaur1321" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ilagaur1321&label=Profile%20views&color=0e75b6&style=flat" alt="ilagaur1321" /> </p>
 
 - 🔭 I'm currently studying Engineering Management and Leadership **at Rice University**
 
