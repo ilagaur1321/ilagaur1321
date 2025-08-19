@@ -27,6 +27,22 @@
 ---
 
 ## <span style="color: #e74c3c;">💼 Professional Experience</span>
+## 💼 Professional Experience
+
+### **Product / Program Management — Rice University**  
+*Houston, TX • 2024–2025*
+- Led 4 cross-functional, culturally diverse student teams to deliver market-ready MVPs.
+- Ran discovery → scoping → prioritization; translated ambiguous needs into clear requirements & roadmaps.
+- Drove Agile rituals (standups, backlog, reviews), de-risked delivery, and aligned stakeholders.
+- Built data/AI-assisted workflows (e.g., title & registration agents) and presented outcomes to faculty/partners.
+
+### **Teaching Assistant — Rice University**  
+*Houston, TX • 2024–2025*
+- TA for **Self-Awareness & The Engineer** and **Operations Management**.
+- Mentored student teams on leadership, process design, queues/bottlenecks, and quality management.
+- Facilitated discussions, graded assignments, and provided actionable feedback.
+- Coordinated workshops and final presentations; improved clarity of expectations and team collaboration.
+
 
 ### <span style="color: #9b59b6;">**Site Reliability Engineer**</span>  
 **CGI (PNC Bank)** — *Pune, India*  
