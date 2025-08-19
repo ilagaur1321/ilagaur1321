@@ -27,7 +27,6 @@
 ---
 
 ## <span style="color: #e74c3c;">💼 Professional Experience</span>
-## 💼 Professional Experience
 
 ### **Product / Program Management — Rice University**  
 *Houston, TX • June2025–August2025*
