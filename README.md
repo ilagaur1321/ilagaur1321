@@ -1,9 +1,13 @@
-<h1 align="center">Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"width="30px" height='30px'> 
-  I'm Ila Gaur</h1>
+<h1 align="center">
+  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
+  I'm Ila Gaur
+</h1>
 
-<h3 align="center" style="color: #2ecc71;">Graduate student at Rice University, where I’m engineering my future in Management and Leadership. Passionate about decoding business puzzles with the power of data science and machine learning—because solving challenges is just part of the equation.</h3>
+<h3 align="center" style="color: #2ecc71;">
+Graduate Student | Product & Technical Operations<br/>
+Graduate student at Rice University with 7+ years of experience across product operations, software engineering, and cross-functional delivery. I bring a product-focused mindset grounded in technical depth, combining user research, data-driven decision-making, and strong execution to build scalable, impactful solutions.
+</h3>
 
-<!-- Aligning the GIF to the center -->
 <p align="center">
   <img src="https://media.giphy.com/media/bzuUs1uRLBHWe2aBPK/giphy.gif?cid=790b7611eol0bizn5fsht1wnm72sdt9jutbj81oc2vc3g8y2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="My GIF" width="300">
 </p>
@@ -14,57 +18,70 @@
 
 ---
 
-## <span style="color: #f39c12;">📚 Education & Research</span>
+## <span style="color: #f39c12;">📚 Education</span>
 
-**Master of Engineering Management and Leadership**  
-**Rice University**, *Houston, TX* — *2024-2026 (Expected)*  
-- **Key Coursework**: Project Management, Product Management, Statistics, Data Science, Leadership.
+**Master of Engineering Management & Leadership**  
+**Rice University**, *Houston, TX* — *Aug 2024 – Dec 2025*  
+- GPA: **3.79 / 4.00**  
+- **Relevant Coursework**: Project Management, Product Management, Statistics for Data Science, Data Visualization  
 
-**Bachelor of Technology (B.Tech) in Electronics and Communication Engineering**  
-**Integral University**, *Uttar Pradesh, India* — *2012-2016*  
-- **Key Coursework**: Wireless Sensor Networks, Data Communication Networks, Industrial Economics, Principles of Management.
+**Bachelor of Technology (B.Tech) – Electronics & Communication Engineering**  
+**Integral University**, *Uttar Pradesh, India* — *2012 – 2016*
 
 ---
 
 ## <span style="color: #e74c3c;">💼 Professional Experience</span>
 
-### **Product / Program Management — Rice University**  
-*Houston, TX • June2025–August2025*
-- Led 4 cross-functional, culturally diverse student teams to deliver market-ready MVPs.
-- Ran discovery → scoping → prioritization; translated ambiguous needs into clear requirements & roadmaps.
-- Drove Agile rituals (standups, backlog, reviews), de-risked delivery, and aligned stakeholders.
-- Built data/AI-assisted workflows (e.g., title & registration agents) and presented outcomes to faculty/partners.
+### **Product Management Intern — DMVagent.ai**  
+**Rice University** | *Jun 2025 – Aug 2025*  
+- Identified and validated critical user pain points in the DMV title registration process through stakeholder interviews, shaping the MVP scope and driving an **80% reduction in application processing time**.
+- Led **OCR integration** by collaborating with a cross-functional team of 3 developers, defining success criteria and KPIs aligned with product experience goals.
+- Owned and managed the **product roadmap** for MVP launch, prioritizing features by technical feasibility and user impact, and delivering within **10 weeks**.
 
-### **Teaching Assistant — Rice University**  
-*Houston, TX • June2025–August2025*
-- TA for **Self-Awareness & The Engineer** and **Operations Management**.
-- Mentored student teams on leadership, process design, queues/bottlenecks, and quality management.
-- Facilitated discussions, graded assignments, and provided actionable feedback.
-- Coordinated workshops and final presentations; improved clarity of expectations and team collaboration.
+---
 
+### <span style="color: #9b59b6;">**Senior Software Engineer**</span>  
+**CGI (Client: PNC Bank)** — *Pune, India*  
+*Aug 2023 – Aug 2024*  
+- Authored multiple **RCA reports**, uncovering environment misconfigurations that reduced recurring production issues by **20%**.
+- Reduced post-release incidents by **30%** by coordinating **SIT, UAT, MOCK, and production deployments** and standardizing pre-release checklists.
+- Collaborated with application and operations teams to improve system reliability and release quality.
 
-### <span style="color: #9b59b6;">**Site Reliability Engineer**</span>  
-**CGI (PNC Bank)** — *Pune, India*  
-*Jan 2023 - Present*
-- Ensured system **reliability**, **scalability**, and **performance** within the **PNC Bank** environment.
-- Managed the **Code, Build, Test & Deploy cycle**, and was responsible for **Change and Incident Management**.
-- Authored **25+ root cause analysis reports**, identifying and resolving critical issues.
-- Collaborated with **Source Code and Application Teams** to successfully deliver projects.
-- Partnered with the **Tech Team** to deploy changes in **production** and test environments (**SIT, UAT, MOCK**).
+---
 
-### <span style="color: #9b59b6;">**Production Support Engineer**</span>  
-**HCL Technologies (Morgan Stanley)** — *Noida, India*  
-*Jun 2021 - Aug 2023*
-- Participated in **regression testing** and **defect resolution**, improving system efficiency by **30%** through the permanent resolution of recurring defects.
-- Provided **16x5 production support** for **400 mission-critical servers**, tracking and resolving issues through **JIRA** and **ServiceNow**.
-- Delivered **enterprise-level Java application support** in high-pressure, mission-critical environments.
+### <span style="color: #9b59b6;">**Technical Specialist**</span>  
+**HCL Technologies (Client: Morgan Stanley)** — *Noida, India*  
+*Jun 2021 – Aug 2023*  
+- Ensured high system availability by providing **16×5 support** for **100+ servers and enterprise applications**, resolving **70+ issues per month**.
+- Improved operational efficiency by **30%** through defect analysis and permanent fixes in collaboration with QA teams.
+- Built **JIRA–ServiceNow dashboards** to improve issue visibility and prioritization.
 
-### <span style="color: #9b59b6;">**Application Support Engineer**</span>  
+---
+
+### <span style="color: #9b59b6;">**Associate Consultant**</span>  
 **Capgemini (GE Digital, BUPA)** — *Navi Mumbai, India*  
-*Mar 2017 - Jun 2021*
-- Managed critical **alerts** as **Primary Shift Manager**, coordinating with multiple teams for quick resolutions.
-- Mentored **5 junior team members**, improving team performance and efficiency.
-- Contributed to **support policy** and **procedure modifications**, ensuring adherence to project requirements, cost, and schedule.
+*Dec 2016 – Jun 2021*  
+- Led resolution of high-priority incidents as **Primary Shift Manager**, coordinating cross-functional teams to meet aggressive SLAs.
+- Updated process documentation and trained **5 junior team members**, reducing onboarding time by **25%**.
+- Aligned support operations with project control strategies to improve delivery predictability.
+
+---
+
+## <span style="color: #1abc9c;">🏆 Recognitions & Achievements</span>
+
+- **800 Appreciation Miles** and **Two Silver Club Awards** from **HCL Technologies** for resolving **100+ issue tickets per month** (highest in the team).
+- **Pat On Back** awards for consistent **on-time delivery** and **dedication** in project work.
+- **Xtra Mile** award for exceptional performance in the **cloud infrastructure business unit**.
+- Volunteered with **Rice Alliance** in the **Energy Tech Venture Forum**, helping manage a two-day event.
+
+---
+
+## <span style="color: #f39c12;">🤝 Extracurricular Activities</span>
+
+- **Student Member of the Space Force Association**: Passionate about space exploration and defense.
+- **Wellbeing Peer — Rice University**: Supporting student mental and emotional wellbeing through peer mentoring.
+- **Graduate Student Association (GSA) Member**: Contributing to student-led initiatives and community building.
+- **Project Management Institute (PMI) Club Member**: Engaged in networking and leadership development.
 
 ---
 
