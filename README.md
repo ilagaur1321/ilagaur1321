@@ -22,7 +22,7 @@ Graduate student at Rice University with 7+ years of experience across product o
 
 **Master of Engineering Management & Leadership**  
 **Rice University**, *Houston, TX* — *Aug 2024 – Dec 2025*  
-- GPA: **3.79 / 4.00**  
+- GPA: **3.83 / 4.00**  
 - **Relevant Coursework**: Project Management, Product Management, Statistics for Data Science, Data Visualization  
 
 **Bachelor of Technology (B.Tech) – Electronics & Communication Engineering**  
