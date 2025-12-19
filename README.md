@@ -73,6 +73,7 @@ Graduate student at Rice University with 7+ years of experience across product o
 - **Pat On Back** awards for consistent **on-time delivery** and **dedication** in project work.
 - **Xtra Mile** award for exceptional performance in the **cloud infrastructure business unit**.
 - Volunteered with **Rice Alliance** in the **Energy Tech Venture Forum**, helping manage a two-day event.
+- **Rice University Teaching Assistant ,Ethical Technical Leadership** : Collaborated with faculty to refine course materials and case studies, enhancing the learning experience for 30+ students.
 
 ---
 
@@ -85,22 +86,6 @@ Graduate student at Rice University with 7+ years of experience across product o
 
 ---
 
-## <span style="color: #1abc9c;">🏆 Recognitions & Achievements</span>
-
-- **800 Appreciation Miles** and **Two Silver Club Awards** from **HCL Technologies** for resolving **100+ issue tickets per month** (highest in the team).
-- **Pat On Back** awards for consistent **on-time delivery** and **dedication** in project work.
-- **Xtra Mile** award for exceptional performance in the **cloud infrastructure business unit**.
-- Volunteered with **Rice Alliance** in the **Energy Tech Venture Forum**, helping manage a two-day event.
-
----
-
-## <span style="color: #f39c12;">🤝 Extracurricular Activities</span>
-- **Student Member of the Space Force Association**: Passionate about space exploration and defense, engaging with the Space Force Association to stay informed and contribute to the growing community of future space leaders.
-- **Wellbeing Peer** at Rice University: Actively engaged in supporting the mental and emotional wellbeing of students through peer mentoring and organizing wellness activities.
-- **Graduate Student Association (GSA)** Member: Contributing to student-led initiatives, representing graduate students, and helping foster a sense of community within the Rice graduate student body.
-- **Project Management Institute (PMI)** Club Member: Engaged in learning, networking, and contributing to the development of project management skills through club activities and events at Rice University.
-
----
 
 ## <span style="color: #3498db;">📫 How to reach me:</span>
 - **Email**: [ig36@rice.edu](mailto:ig36@rice.edu)
